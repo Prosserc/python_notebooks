@@ -2,3 +2,4 @@ local/
 .ipynb_checkpoints/
 .idea/
 strava/strava_tokens.json
+strava/strava_tokens.json
