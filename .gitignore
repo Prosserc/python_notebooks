@@ -3,3 +3,5 @@ local/
 .idea/
 strava/strava_tokens.json
 strava/strava_tokens.json
+.venv/
+venv/
