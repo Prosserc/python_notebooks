@@ -5,3 +5,11 @@ strava/strava_tokens.json
 strava/strava_tokens.json
 .venv/
 venv/
+mslearn-dp100-main
+*.xlsx
+*.las
+*.zip
+*.csv
+*.pdf
+*.txt
+*.json
