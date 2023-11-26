@@ -17,3 +17,6 @@ mslearn-dp100-main
 
 ml-basics/
 mslearn-dp100/
+
+# keep csv files in experiments/goodreads folder
+!experiments/goodreads/*.csv
